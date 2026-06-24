@@ -5,7 +5,8 @@ This repository contains the standalone application, trained models, and source 
 </p>
 
 <p>
-<strong>“Development of a Standalone Application for Accurate and User-Friendly Prediction of Concrete Compressive Strength Using Ensemble Machine Learning.”</strong>
+<strong>“Development of a Standalone Application for Accurate and User-Friendly Prediction of Concrete Compressive Strength Using Ensemble Machine Learning.”</strong><br>
+DOI: https://doi.org/10.54878/h9yb8c42
 </p>
 
 <p>
@@ -20,6 +21,4 @@ The project implements a diversified stacked ensemble of machine learning models
   <li>Experimental analysis and results</li>
 </ul>
 
-<p>
-<em>The repository will be fully updated and documented upon paper acceptance.</em>
-</p>
+<p> This repository accompanies the published article and is intended to support reproducible research and the application of machine learning techniques in reinforced concrete structural engineering. </p>
